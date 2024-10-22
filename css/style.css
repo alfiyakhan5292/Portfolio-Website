@@ -9783,4 +9783,14 @@ textarea.form-control {
   
       }
   
-  }    
+  }  
+  
+  .magnetic{
+    position: absolute;
+    width: 20px;
+    height: 24px;
+    background-color: #e747a2;
+    border-radius: 50%;
+    transition: transform 0.1s ease-out;
+    box-shadow: 0 0 20px #f9f3f7;
+}
